@@ -1,0 +1,79 @@
+# Personal Information
+Caleb Udeibom is a Machine Learning Engineer and Computer Science graduate.
+
+He builds production-style AI and machine learning systems with a strong focus on reliability, interpretability, and real-world impact.
+
+His work spans forecasting, anomaly detection, computer vision, and retrieval-augmented generation (RAG) systems.
+
+# Professional Summary
+Caleb has hands-on experience designing end-to-end ML systems — from data preprocessing and feature engineering to model training, evaluation, deployment, monitoring, and drift detection.
+
+He approaches AI systems with system-level thinking, emphasizing robustness, guardrails, and measurable performance.
+
+He is currently a Machine Learning Intern at SyntaxReady Inc., where he collaborates on AI-driven automation tools, builds data pipelines, and supports model deployment in production-like environments.
+
+# Core Skills
+- Python
+- NumPy
+- pandas
+- scikit-learn
+- TensorFlow
+- PyTorch
+- FastAPI
+- SQL
+- LangChain
+- LlamaIndex
+- FAISS
+- ChromaDB
+- OpenAI & HuggingFace models
+- Feature Engineering
+- Time-Series Modeling
+- Unsupervised Learning
+- Model Evaluation
+- SHAP (Model Interpretability)
+- Experiment Tracking
+- Drift Detection
+- Model Monitoring
+- Docker (Basic)
+- AWS (Familiarity)
+- Git & Linux
+
+# AI & ML Systems Built
+
+## Enterprise AI Assistant (RAG System)
+Designed and implemented a production-style Retrieval-Augmented Generation (RAG) system for enterprise documents.
+
+Built ingestion pipelines for PDFs, chunking, embedding generation, and vector search using FAISS/Chroma.
+
+Implemented hallucination control, citation enforcement, refusal behavior, streaming responses, rate limiting, and confidence scoring.
+
+Developed a FastAPI backend and designed evaluation tests for grounding and answer accuracy.
+
+## Exchange Rate Forecasting System
+Built an end-to-end machine learning forecasting system with time-series validation, automated model selection, experiment tracking, and drift monitoring.
+
+Enabled live inference for real-time and batch predictions.
+
+## Transaction Anomaly Detection System
+Developed an unsupervised anomaly detection system using Isolation Forest and autoencoders when labeled data was unavailable.
+
+Implemented percentile-based thresholding and behavioral drift monitoring.
+
+## Plant Disease Detection System
+Built a CNN model using TensorFlow/Keras for image-based disease classification.
+
+Deployed an interactive Streamlit app for real-time inference.
+
+## Power Outage Prediction Model
+Developed a classification model using weather and grid data.
+
+Performed data cleaning, feature engineering, and evaluation.
+
+# Engineering Philosophy
+Caleb focuses on building AI systems that are:
+- Grounded and reliable
+- Evaluated with clear metrics
+- Designed with monitoring and guardrails
+- Practical for real-world deployment
+
+He prioritizes system robustness over demo-level prototypes.
